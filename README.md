@@ -22,3 +22,8 @@ generic type erasure에 대해서 설명해보세요.
 1. 직렬화가 무엇이고 왜 해야되는지 설명해보세요.
 1. error와 exception이 어떻게 다른지 설명하고 어떻게 처리할 수 있는지에 대해 설명해보세요.
 1. String str = ""; 과 String str = new String(""); 두 코드가 같은지 다른지 설명하고 자세한 동작원리에 대해서 설명해보세요.
+
+
+#### db 선택에 관련된 고민
+1. [관계형 db vs 그래프 db에 대한 고민](https://ckdgus.tistory.com/79)
+1. [시계열데이터 db선택에 관련된 내용 정리](https://ckdgus.tistory.com/84)
