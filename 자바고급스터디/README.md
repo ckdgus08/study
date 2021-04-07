@@ -15,19 +15,15 @@
 > 주제는 평소 자바를 사용하면서 궁금했지만 깊이있게 공부하지 않았던 부분과 현직 개발자분들께서 추천해주신 주제, 구글에 자바고급이라고 치면 공통적으로 많이 나오는 주제들로 선정하였다.
 >
 > 아래 목록에서 1번부터 1주일에 하나씩 공부하고 내용정리를 할 계획이다.
-
 </div>
 </details>
-
-
 
 1. [Stream, lamda에 대해서 아는대로 설명해보세요.](https://ckdgus.tistory.com/81)
 1. [Wrapper Class에 대해서 설명해보고 Wrapping을 함으로써 얻는 이점과 일급콜랙션에 대해서 사용 예시를 들며 설명해보세요.
    ](https://ckdgus.tistory.com/83)
 1. [JVM구조에 대해서 설명, 자바 버전에 따라 어떻게 바뀌는가?](https://ckdgus.tistory.com/86)
 1. [자바가 컴파일 되는 과정에 대해서 설명해보세요.](https://ckdgus.tistory.com/87)
-1. [제네릭 타입을 컴파일하면 class 파일에 제네릭이 남아있나요?
-   generic type erasure에 대해서 설명해보세요.](https://ckdgus.tistory.com/88)
+1. [제네릭 타입을 컴파일하면 class 파일에 제네릭이 남아있나요? generic type erasure에 대해서 설명해보세요.](https://ckdgus.tistory.com/88)
 1. 리플렉션에 대해서 설명하세요.
 1. gc의 동작원리와 gc가 언제 작동되는지 설명하세요.
 1. gc 종류별 차이에 대해서 설명하세요. (Serial, Parallel, CMS, G1, Z)
